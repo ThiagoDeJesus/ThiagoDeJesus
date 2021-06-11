@@ -3,7 +3,7 @@
 
 **I'm a 21 years old student who loves to learn programming languages and technologies in general**
 
-**My goal is to become a Back-End / Full-Stack developer**
+**My goal is to become a Full-Stack developer**
 
 <hr>
 
