@@ -31,8 +31,4 @@
 
 <a href="https://www.linkedin.com/in/thiago-de-jesus-ramos-a0a406154/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**Ps: I also likes a lot gamedev with**
-
-![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine)
-
 Now take a look at my GitHub
