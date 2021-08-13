@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Thiago.
 <hr>
 
-**I'm a 22 years old student who loves to learn programming languages and technologies in general**
-
-**My goal is to become a Full-Stack developer**
+**I'm a 22 years old Front End Developer and student who loves to learn about programming languages and technologies in general**
 
 <hr>
 
