@@ -28,10 +28,13 @@ Tenho 22 anos e estudo programação por conta própria desde que comecei a estu
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ThiagoDeJesus&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDeJesus&layout=compact&theme=dracula&langs_count=10)](https://github.com/ThiagoDeJesus/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDeJesus&layout=compact&theme=dracula&langs_count=8)](https://github.com/ThiagoDeJesus/github-readme-stats)
 
 ### Minhas redes sociais
 
 <a href="https://www.linkedin.com/in/thiago-de-jesus-ramos-a0a406154/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Agora fica a vontade para dar uma olhada nos meus projetos 😉
+
+<a href="./README_EN.md">English version</a>
